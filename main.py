@@ -1,4 +1,4 @@
-# From string_utils.py
+# From string_utils.py 
 from string_utils import split_before_each_uppercases, split_at_first_digit, count_atoms_in_molecule
 
 # From equation_utils.py
